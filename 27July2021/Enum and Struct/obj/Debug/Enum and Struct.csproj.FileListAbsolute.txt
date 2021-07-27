@@ -1,0 +1,6 @@
+E:\UST Wave 53\day1\27July2021\Enum and Struct\bin\Debug\Enum and Struct.exe.config
+E:\UST Wave 53\day1\27July2021\Enum and Struct\bin\Debug\Enum and Struct.exe
+E:\UST Wave 53\day1\27July2021\Enum and Struct\bin\Debug\Enum and Struct.pdb
+E:\UST Wave 53\day1\27July2021\Enum and Struct\obj\Debug\Enum and Struct.csproj.CoreCompileInputs.cache
+E:\UST Wave 53\day1\27July2021\Enum and Struct\obj\Debug\Enum and Struct.exe
+E:\UST Wave 53\day1\27July2021\Enum and Struct\obj\Debug\Enum and Struct.pdb

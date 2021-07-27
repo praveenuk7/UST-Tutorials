@@ -1,0 +1,7 @@
+E:\UST Wave 53\day1\27July2021\Inheritance\bin\Debug\Inheritance.exe.config
+E:\UST Wave 53\day1\27July2021\Inheritance\bin\Debug\Inheritance.exe
+E:\UST Wave 53\day1\27July2021\Inheritance\bin\Debug\Inheritance.pdb
+E:\UST Wave 53\day1\27July2021\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+E:\UST Wave 53\day1\27July2021\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+E:\UST Wave 53\day1\27July2021\Inheritance\obj\Debug\Inheritance.exe
+E:\UST Wave 53\day1\27July2021\Inheritance\obj\Debug\Inheritance.pdb

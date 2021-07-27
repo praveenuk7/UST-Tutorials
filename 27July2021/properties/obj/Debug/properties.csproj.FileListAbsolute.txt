@@ -1,0 +1,7 @@
+E:\UST Wave 53\day1\27July2021\properties\bin\Debug\properties.exe.config
+E:\UST Wave 53\day1\27July2021\properties\bin\Debug\properties.exe
+E:\UST Wave 53\day1\27July2021\properties\bin\Debug\properties.pdb
+E:\UST Wave 53\day1\27July2021\properties\obj\Debug\properties.csproj.AssemblyReference.cache
+E:\UST Wave 53\day1\27July2021\properties\obj\Debug\properties.csproj.CoreCompileInputs.cache
+E:\UST Wave 53\day1\27July2021\properties\obj\Debug\properties.exe
+E:\UST Wave 53\day1\27July2021\properties\obj\Debug\properties.pdb

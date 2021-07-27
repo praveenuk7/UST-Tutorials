@@ -1,0 +1,7 @@
+E:\UST Wave 53\day1\27July2021\AutomaticPpty\bin\Debug\AutomaticPpty.exe.config
+E:\UST Wave 53\day1\27July2021\AutomaticPpty\bin\Debug\AutomaticPpty.exe
+E:\UST Wave 53\day1\27July2021\AutomaticPpty\bin\Debug\AutomaticPpty.pdb
+E:\UST Wave 53\day1\27July2021\AutomaticPpty\obj\Debug\AutomaticPpty.csproj.AssemblyReference.cache
+E:\UST Wave 53\day1\27July2021\AutomaticPpty\obj\Debug\AutomaticPpty.csproj.CoreCompileInputs.cache
+E:\UST Wave 53\day1\27July2021\AutomaticPpty\obj\Debug\AutomaticPpty.exe
+E:\UST Wave 53\day1\27July2021\AutomaticPpty\obj\Debug\AutomaticPpty.pdb
